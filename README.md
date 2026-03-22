@@ -40,6 +40,17 @@ The system enhances mobility and safety by enabling users to sense obstacles wit
 
 ---
 
+## 📸 Model Image
+![Model Image](images/smart spectacles.png)
+
+---
+
+## 💻 Source Code
+
+[Click here to view Arduino Code](code/main.ino)
+
+---
+
 ## 🚀 Future Scope
 
 * Ultrasonic sensor for better distance measurement
