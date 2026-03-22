@@ -41,10 +41,8 @@ The system enhances mobility and safety by enabling users to sense obstacles wit
 ---
 
 ## 📸 Model Image
-![Model Image](images/smart spectacles.png)
-![Circuit Diagram](images/smart spectacles.jpeg)
-## 📸 Circuit Diagram
-![Circuit Diagram](images/circuit-diagram.png)
+
+![Circuit Diagram](images/smart-spectacles.png)
 
 ---
 
