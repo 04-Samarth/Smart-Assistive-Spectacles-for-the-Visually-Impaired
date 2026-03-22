@@ -42,7 +42,7 @@ The system enhances mobility and safety by enabling users to sense obstacles wit
 
 ## 📸 Model Image
 
-![Circuit Diagram](images/smart-spectacles.png)
+![Model Image](images/smart-spectacles.png)
 
 ---
 
